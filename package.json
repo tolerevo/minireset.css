@@ -28,8 +28,8 @@
   },
   "homepage": "https://github.com/jgthms/minireset.css#readme",
   "devDependencies": {
-    "node-sass": "^4.12.0",
-    "rollup": "^2.7.6",
+    "node-sass": "^9.0.0",
+    "rollup": "^3.29.5",
     "rollup-plugin-lit-css": "^2.0.3"
   },
   "files": [
